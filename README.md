@@ -1,2 +1,1 @@
-# Books
-这个仓库主要是用来保存一些技术书籍和文章
+Tout le monde doit se fixer un objectif, et mon objectif est d 'entrer dans JS dans un an.
